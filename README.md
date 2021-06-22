@@ -2,7 +2,7 @@ Hi 👋 I'm Umair. My initials are USA.
 
 A brief overview of what I do:
 ### Cloud Engineering 
-* I am a Cloud Native Infrastructure Engineer and DevOps Professional. I have a deep understanding of Infrastructure Automation, Cloud Architecture, and Public/Private Cloud Provisioning. My experience includes being as both the admin and developer for private clouds, scaling up infrastructure to meet diverse needs while ensuring compliance with enterprise policies, automation of infrastructure operations using open source toolsets such as Ansible, Terraform, Packer and Puppet.
+* I am a Cloud Native Infrastructure Engineer and DevOps Professional. I have a deep understanding of Infrastructure Automation, Cloud Architecture, and Public/Private Cloud Provisioning. My experience includes scaling up infrastructure to meet diverse needs while ensuring compliance with enterprise policies, automation of infrastructure operations using open source toolsets such as Ansible, Terraform, Packer and Puppet.
 * I work with Cloud and Infrastructure as Code (Iac), this includes **Amazon Web Services (AWS)**, **Google Cloud Platform (GCP)**, and **Microsoft Azure**
 
 ### Security Systems Engineer
