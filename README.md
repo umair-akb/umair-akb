@@ -2,7 +2,7 @@
 
 # 📩 umair@tesla.com.ai
 
-Some quick stats:
+![tesla](https://i.imgur.com/0PsDqaF.gif)
 
 * 🔬 [My Research has been cited over 95 times](https://scholar.google.com/citations?user=aRS4MOUAAAAJ&hl=en&oi=sra).
 * ✔ Akbar, Umair, et al. Omega-3 fatty acids in rheumatic diseases: a critical review. [*JCR: Journal of Clinical Rheumatology*.](https://journals.lww.com/jclinrheum/fulltext/2017/09000/Omega_3_Fatty_Acids_in_Rheumatic_Diseases__A.6.aspx)
