@@ -22,6 +22,7 @@
 [![logo2](https://i.imgur.com/aim7FpB.png)](https://www.youracclaim.com/badges/54a21319-478b-48f6-a82e-41b610b8cf98/public_url)
 [![logo3](https://i.imgur.com/gtYIGoM.png)](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=ZJFpQkZIF+28c8vibHmygrnbK149R/I69YBzzbXuDDA=)
 [![logo4](https://i.imgur.com/kdfNfKj.png)](https://www.youracclaim.com/badges/3941f370-35ff-4f61-808f-729acb2d7c8f/public_url)
+[![logo6](https://i.imgur.com/WU0SVTl.png)](https://www.credly.com/badges/38ae040e-b0c8-4a3c-a4a8-74dfbaaa3eeb/)
 [![logo5](https://i.imgur.com/8afqjb6.png)](https://www.credential.net/612b882c-fbed-449b-8e8f-9293c85afb1d/)
 
 ## Quick Facts
