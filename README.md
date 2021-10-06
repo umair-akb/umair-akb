@@ -1,5 +1,5 @@
 # Hi 👋 I'm Umair Akbar. My initials are USA.
-## Born and raised in Houston. Never have left the U.S. ✔
+## Born and raised in Houston. Never left the U.S. <img src="https://i.imgur.com/JhgtSKT.png" width="25" height="25">
 ![Deloitte](https://i.imgur.com/gkAI9mj.gif)
 
 # A brief overview of what I do:
@@ -23,7 +23,7 @@
 [![logo6](https://i.imgur.com/WU0SVTl.png)](https://www.credly.com/badges/38ae040e-b0c8-4a3c-a4a8-74dfbaaa3eeb/)
 [![logo5](https://i.imgur.com/8afqjb6.png)](https://www.credential.net/612b882c-fbed-449b-8e8f-9293c85afb1d/)
 
-### Each badge above is clickable to verify the authenticity of my achievements.
+## ✔ Each badge above is clickable to verify the authenticity of my achievements.
 
 * AWS Certified Solutions Architect - Professional (SAP-C01)
 * AWS Certified Solutions Architect - Associate (SAA-C02)
