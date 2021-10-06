@@ -2,7 +2,7 @@
 
 # 📩 umair@tesla.com.ai
 
-![tesla](https://i.imgur.com/0PsDqaF.gif)
+![Deloitte](https://i.imgur.com/ATZhxmS.gif)
 
 # A brief overview of what I do:
 ### Cloud Engineering 
