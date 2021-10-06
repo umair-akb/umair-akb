@@ -1,4 +1,5 @@
-# Hi 👋 I'm Umair Akbar, from Houston, TX. My initials are USA.
+# Hi 👋 I'm Umair Akbar. My initials are USA.
+## Born and raised in Houston. Never have left the U.S. :)
 
 ![Deloitte](https://i.imgur.com/gkAI9mj.gif)
 
@@ -38,6 +39,5 @@
 * ✔ Yang, M., Akbar, U. and Mohan, C., 2019. Curcumin in autoimmune and rheumatic diseases. [*Nutrients*.](https://www.mdpi.com/2072-6643/11/5/1004)
 * ✔ Ding, H., Akbar, U., Mohan, C., 2016. Promises and challenges of metabolomics in SLE. [*Nature Reviews Rheumatology*.](https://www.nature.com/articles/nrrheum.2016.163)
 * ✔ I’m working on enumeration of the mechanism behind Apple's Secure Boot portion of the Secure Enclave Processor [(SEP)](https://support.apple.com/guide/security/secure-enclave-overview-sec59b0b31ff/web).
-* ✔ Lastly! I was born and raised in Houston, TX, USA. Never have left the United States. :)
 
 ## 📩 umairakbar@pm.me
