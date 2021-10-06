@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Umair. My initials are USA.
 
-![Deloitte](https://i.imgur.com/ATZhxmS.gif)
+![Deloitte](https://i.imgur.com/gkAI9mj.gif)
 
 # A brief overview of what I do:
 ### Cloud Engineering 
@@ -23,6 +23,15 @@
 [![logo6](https://i.imgur.com/WU0SVTl.png)](https://www.credly.com/badges/38ae040e-b0c8-4a3c-a4a8-74dfbaaa3eeb/)
 [![logo5](https://i.imgur.com/8afqjb6.png)](https://www.credential.net/612b882c-fbed-449b-8e8f-9293c85afb1d/)
 
+### Each badge above is clickable to verify the authenticity of my achievements.
+
+* AWS Certified Solutions Architect - Professional (SAP-C01)
+* AWS Certified Solutions Architect - Associate (SAA-C02)
+* Certified Information Systems Auditor (CISA)
+* Certified Ethical Hacker (CEH)
+* Certified Data Privacy Solutions Engineer (CDPSE)
+* Google Professional Cloud Network Engineer
+
 ## Quick Facts
 * 🔬 [My Research has been cited over 95 times](https://scholar.google.com/citations?user=aRS4MOUAAAAJ&hl=en&oi=sra).
 * ✔ Akbar, Umair, et al. Omega-3 fatty acids in rheumatic diseases: a critical review. [*JCR: Journal of Clinical Rheumatology*.](https://journals.lww.com/jclinrheum/fulltext/2017/09000/Omega_3_Fatty_Acids_in_Rheumatic_Diseases__A.6.aspx)
@@ -30,4 +39,4 @@
 * ✔ Ding, H., Akbar, U., Mohan, C., 2016. Promises and challenges of metabolomics in SLE. [*Nature Reviews Rheumatology*.](https://www.nature.com/articles/nrrheum.2016.163)
 * ✔ I’m working on enumeration of the mechanism behind Apple's Secure Boot portion of the Secure Enclave Processor [(SEP)](https://support.apple.com/guide/security/secure-enclave-overview-sec59b0b31ff/web).
 
-## 📩 umair@tesla.com.ai
+## 📩 umairakbar@pm.me
