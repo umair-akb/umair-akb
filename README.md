@@ -1,6 +1,4 @@
-# Hi 👋 I'm Umair. My initials are USA.
-
-# 📩 umair@tesla.com.ai
+## Hi 👋 I'm Umair. My initials are USA.
 
 ![Deloitte](https://i.imgur.com/ATZhxmS.gif)
 
@@ -32,3 +30,4 @@
 * ✔ Ding, H., Akbar, U., Mohan, C., 2016. Promises and challenges of metabolomics in SLE. [*Nature Reviews Rheumatology*.](https://www.nature.com/articles/nrrheum.2016.163)
 * ✔ I’m working on enumeration of the mechanism behind Apple's Secure Boot portion of the Secure Enclave Processor [(SEP)](https://support.apple.com/guide/security/secure-enclave-overview-sec59b0b31ff/web).
 
+## 📩 umair@tesla.com.ai
