@@ -1,5 +1,4 @@
 # Hi 👋 I'm Umair Akbar. My initials are USA.
-## Born and raised in Houston. Never left the U.S. <img src="https://i.imgur.com/JhgtSKT.png" width="25" height="25">
 ![Deloitte](https://i.imgur.com/gkAI9mj.gif)
 
 # A brief overview of what I do:
