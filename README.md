@@ -1,5 +1,7 @@
 # Hi 👋 I'm Umair Akbar. My initials are USA.
 
+## 📩 umair@tesla.com.ai
+
 # A brief overview of what I do:
 ### Cloud Engineering 
 * I am a Cloud Native Infrastructure Engineer and DevOps Professional. I have a deep understanding of Infrastructure Automation, Cloud Architecture, and Public/Private Cloud Provisioning. My experience includes scaling up infrastructure to meet diverse needs while ensuring compliance with enterprise policies, automation of infrastructure operations using open source toolsets such as Ansible, Terraform, Packer and Puppet.
@@ -37,4 +39,4 @@
 * ✔ Ding, H., Akbar, U., Mohan, C., 2016. Promises and challenges of metabolomics in SLE. [*Nature Reviews Rheumatology*.](https://www.nature.com/articles/nrrheum.2016.163)
 * ✔ I’m working on enumeration of the mechanism behind Apple's Secure Boot portion of the Secure Enclave Processor [(SEP)](https://support.apple.com/guide/security/secure-enclave-overview-sec59b0b31ff/web).
 
-## 📩 umair@tesla.com.ai
+
