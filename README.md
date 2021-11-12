@@ -1,7 +1,6 @@
 # Hi 👋 I'm Umair Akbar. My initials are USA.
 
 ![tesla](https://i.imgur.com/0PsDqaF.gif)
-![tesla2](https://i.imgur.com/IqMUp6R.gif)
 
 # A brief overview of what I do:
 ### Cloud Engineering 
