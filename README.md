@@ -1,4 +1,4 @@
-# Hi 👋 I'm Umair Akbar. My initials are USA.
+# Hi 👋 I'm Umair.
 
 ![rsm](https://i.imgur.com/Blmsh2z.gif)
 
