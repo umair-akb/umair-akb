@@ -1,6 +1,6 @@
 # Hi 👋 I'm Umair.
 
-![rsm](https://i.imgur.com/Blmsh2z.gif)
+
 
 # A brief overview of what I do:
 ### Cloud Engineering 
