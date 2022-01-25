@@ -1,7 +1,5 @@
 # Hi 👋 I'm Umair.
 
-![rsm](https://i.imgur.com/Blmsh2z.gif)
-
 # A brief overview of what I do:
 ### Cloud Engineering 
 * I am a Cloud Native Infrastructure Engineer and DevOps Professional. I have a deep understanding of Infrastructure Automation, Cloud Architecture, and Public/Private Cloud Provisioning. My experience includes scaling up infrastructure to meet diverse needs while ensuring compliance with enterprise policies, automation of infrastructure operations using open source toolsets such as Ansible, Terraform, Packer and Puppet.
