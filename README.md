@@ -1,6 +1,8 @@
 # Hi 👋 I'm Umair.
 
-![Imgur](https://i.imgur.com/GlvpjjK.gifv)
+I like to work on solving very difficult problems. We will win self-driving cars.
+
+![tesla](ezgif.com-gif-maker.gif)
 
 ## Quick Facts
 * 📚 **Master of Science** (M.S.) in Cybersecurity and Information Assurance (**4.0 GPA**). 
