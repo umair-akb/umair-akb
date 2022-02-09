@@ -1,6 +1,6 @@
 # Hi 👋 I'm Umair.
 
-I like to work on solving very difficult problems. We will win self-driving cars.
+I like to work on solving very difficult problems. 
 
 ![tesla](ezgif.com-gif-maker.gif)
 
