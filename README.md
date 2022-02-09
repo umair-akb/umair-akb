@@ -4,7 +4,7 @@ I like to work on solving very difficult problems. We will win self-driving cars
 
 ![tesla](ezgif.com-gif-maker.gif)
 
-*A partial explanation for the jitteriness you see: The jitter artifacts could be removed by applying some kind of temporal consistency constraints on the network predictions. But such an approach will also definitely introduce a lot of edge cases where a sudden change is actually ignored due to enforcement of the constraint. An adaptive consistency parameter could probably work better, but it's non-trivial to have a meta-algorithm to figure out the paramter.*
+* *A partial explanation for the jitteriness you see: The jitter artifacts could be removed by applying some kind of temporal consistency constraints on the network predictions. But such an approach will also definitely introduce a lot of edge cases where a sudden change is actually ignored due to enforcement of the constraint. An adaptive consistency parameter could probably work better, but it's non-trivial to have a meta-algorithm to figure out the paramter.*
 
 ## Quick Facts
 * 📚 **Master of Science** (M.S.) in Cybersecurity and Information Assurance (**4.0 GPA**). 
