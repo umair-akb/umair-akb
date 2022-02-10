@@ -1,6 +1,6 @@
 # Hi 👋 I'm Umair.
 
-I'm paid to work on some of the world's most difficult problems. And there's no way I'd have it any other way.
+I have the privilege of being able to work with an incredibly intelligent team to tackle very complex problems. I look forward to everyday. 
 
 ![tesla](ezgif.com-gif-maker.gif)
 
