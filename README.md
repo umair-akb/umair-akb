@@ -1,6 +1,6 @@
 # Hi 👋 I'm Umair.
 
-I like to work on solving very difficult problems. 
+I'm paid to work on some of the world's most difficult problems. And there's no way I'd have it any other way.
 
 ![tesla](ezgif.com-gif-maker.gif)
 
