@@ -1,6 +1,6 @@
 # Hi 👋 I'm Umair.
 
-I have the privilege of being able to work with an incredibly intelligent team to tackle very complex problems. I look forward to everyday. 
+I have the privilege of being able to work alongside an incredibly intelligent team to tackle very complex problems. I look forward to everyday. 
 
 ![tesla](ezgif.com-gif-maker.gif)
 
