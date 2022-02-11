@@ -1,3 +1,6 @@
+# NOTICE: [NEW PROFILE IS LOCATED HERE](https://github.com/uakbr/)
+*This one will no longer be updated. Please visit my new one by clicking the above.*
+
 # Hi 👋 I'm Umair.
 
 I have the privilege of being able to work alongside an incredibly intelligent team to tackle very complex problems. I look forward to everyday. 
