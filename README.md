@@ -3,7 +3,9 @@
 I have the privilege of being able to work alongside an incredibly intelligent team to tackle very complex problems. I look forward to everyday. 
 
 ![tesla](tesla_autopilot_0023.gif)
+
 ![tesla_f1](tesla_f1.gif)
+
 ![tesla_f2](tesla_f2.gif)
 
 ## Quick Facts
