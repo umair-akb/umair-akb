@@ -1,16 +1,6 @@
 # NOTICE: [NEW PROFILE IS LOCATED HERE](https://github.com/uakbr/)
 *This one will no longer be updated. Please visit my new one by clicking the above.*
 
-# Hi 👋 I'm Umair.
-
-I have the privilege of being able to work alongside an incredibly intelligent team to tackle very complex problems. I look forward to everyday. 
-
-![tesla](tesla_autopilot_0023.gif)
-
-![tesla_f1](tesla_f1.gif)
-
-![tesla_f2](tesla_f2.gif)
-
 ## Quick Facts
 * 📚 **Master of Science** (M.S.) in Cybersecurity and Information Assurance (**4.0 GPA**). 
 * 📚 **Bachelor of Science** (B.S.) in Honors Biomedical Sciences (**3.97 GPA**).
@@ -19,7 +9,12 @@ I have the privilege of being able to work alongside an incredibly intelligent t
 * ✔ Yang, M., Akbar, U. and Mohan, C., 2019. Curcumin in autoimmune and rheumatic diseases. [*Nutrients*.](https://www.mdpi.com/2072-6643/11/5/1004)
 * ✔ Ding, H., Akbar, U., Mohan, C., 2016. Promises and challenges of metabolomics in SLE. [*Nature Reviews Rheumatology*.](https://www.nature.com/articles/nrrheum.2016.163)
 
-## 📩 umair@tesla.com.ai
+## Projects
+![tesla](tesla_autopilot_0023.gif)
+
+![tesla_f1](tesla_f1.gif)
+
+![tesla_f2](tesla_f2.gif)
 
 ## Credentials
   
@@ -41,11 +36,7 @@ I have the privilege of being able to work alongside an incredibly intelligent t
 
 # A brief overview of what I do:
 ### Cloud Engineering 
-* I am a Cloud Native Infrastructure Engineer and DevOps Professional. I have a deep understanding of Infrastructure Automation, Cloud Architecture, and Public/Private Cloud Provisioning. My experience includes scaling up infrastructure to meet diverse needs while ensuring compliance with enterprise policies and automation of infrastructure operations.
-* I deploy Infrastructure as Code (Iac) on the cloud, particularly specializing in **Amazon Web Services (AWS)**, **Google Cloud Platform (GCP)**, and **Microsoft Azure**.
-
-### Security Systems Engineer
-* I architect cloud-based systems that are based on these tenets: 
+* I engineer cloud-based systems that are based on these tenets: 
    * **Resiliency** - If something "goes wrong" in the code; the program is able to self-heal or continue without affecting the entire system itself.
    * **Highly-available** - The system is *ideally* available at all times; the system converges towards an error-free state and is therefore self stabilizing.
    * **Redundancy** - There will always be multiple identical instances of the system and it will switch to one of the redundant instances in case of failover.
